@@ -1,0 +1,4 @@
+##bridge-file-version: #36
+pack.name=KirizaNetwork RP
+pack.description=Custom Blocks
+tile.custom:chest_driver.name=Chest Driver

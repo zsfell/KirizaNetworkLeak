@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"geometry":{"default":"geometry.no_server"},"identifier":"custom:no_server","materials":{"default":"entity"},"render_controllers":["controller.render.default"],"textures":{"default":"textures/entity/no_server"}}}}
